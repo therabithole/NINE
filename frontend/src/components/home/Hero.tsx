@@ -18,7 +18,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-gray-400 text-xl mt-6 max-w-xl">
-            Taxi, courier, freight, grocery, restaurants and halal meat businesses.
+            Taxi, courier, freight, grocery, restaurants, businesses
           </p>
 
           <div className="mt-10 glass rounded-3xl p-6 max-w-xl">
