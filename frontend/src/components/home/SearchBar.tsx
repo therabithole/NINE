@@ -19,8 +19,7 @@ export default function SearchBar() {
             <option>All</option>
             <option>Taxi</option>
             <option>Food</option>
-            <option>Grocery</option>
-            <option>Meat Companies</option>
+           
           </select>
 
           <button className="bg-emerald-500 text-black px-6 py-3 rounded-2xl font-bold">
