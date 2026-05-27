@@ -15,8 +15,8 @@ export default function Navbar() {
           <Link href="/courier">Courier</Link>
           <Link href="/freight">Freight</Link>
           <Link href="/food">Food</Link>
-          <Link href="/grocery">Grocery</Link>
-          <Link href="/meat-market">Meat Market</Link>
+          
+          
         </nav>
 
         <div className="flex items-center gap-3">
