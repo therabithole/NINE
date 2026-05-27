@@ -19,16 +19,7 @@ const services = [
     desc: 'Restaurants and takeaway',
     icon: '🍔',
   },
-  {
-    title: 'Grocery',
-    desc: 'Fresh grocery delivery',
-    icon: '🛒',
-  },
-  {
-    title: 'Meat Market',
-    desc: 'Premium halal meat suppliers',
-    icon: '🥩',
-  },
+   
 ]
 
 export default function ServicesGrid() {
