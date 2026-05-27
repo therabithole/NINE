@@ -1,5 +1,5 @@
-import RegisterForm from './components/auth/RegisterForm'
-import AuthSidePanel from './components/auth/AuthSidePanel'
+import RegisterForm from '@/components/auth/RegisterForm'
+import AuthSidePanel from '@/components/auth/AuthSidePanel'
 
 export default function RegisterPage() {
   return (
